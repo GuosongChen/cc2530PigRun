@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+    
+    
+  <CurrentConfigs><Project>light_switch/srf05_cc2530</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>199</Column0><Column1>27</Column1><Column2>27</Column2><Column3>14677140</Column3></ColumnWidths>
+      <PreferedWindows><Position>4</Position><ScreenPosX>46</ScreenPosX><ScreenPosY>136</ScreenPosY><Windows><Window><Factory>SourceBrowser</Factory></Window></Windows></PreferedWindows></Workspace>
+    <Build><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Debug-Log</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>69</ColumnWidth3></Build><TerminalIO/><Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>19</ColumnWidth0><ColumnWidth1>1222</ColumnWidth1></Debug-Log><SourceBrowser><PreferedWindows><Position>4</Position><ScreenPosX>46</ScreenPosX><ScreenPosY>136</ScreenPosY><Windows><Window><Factory>Workspace</Factory></Window></Windows></PreferedWindows></SourceBrowser><Find-in-Files><ColumnWidth0>350</ColumnWidth0><ColumnWidth1>50</ColumnWidth1><ColumnWidth2>601</ColumnWidth2></Find-in-Files><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow><InstrProfShow>0</InstrProfShow></Disassembly></Static>
+    <Windows>
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-9909-3580</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>light_switch</ExpandedNode><ExpandedNode>light_switch/basic rf</ExpandedNode><ExpandedNode>light_switch/hal</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd2><Tabs><Tab><Identity>TabID-10382-19633</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab><Tab><Identity>TabID-11047-15645</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-14164-23978</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\apps\AD_sample\ds18b20.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>244</SelStart><SelEnd>244</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\apps\AD_sample\AD_sample.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>2276</SelStart><SelEnd>2276</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\apps\AD_sample\DS18B20.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>201</SelStart><SelEnd>201</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 6.0 Evaluation\8051\inc\ioCC2530.h</Filename><XPos>0</XPos><YPos>452</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\Components\basicrf\basic_rf.c</Filename><XPos>0</XPos><YPos>357</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\Components\basicrf\basic_rf.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\Components\targets\srf05_soc\hal_board.c</Filename><XPos>0</XPos><YPos>49</YPos><SelStart>1670</SelStart><SelEnd>1670</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\Components\radios\cc2530\hal_mcu.c</Filename><XPos>0</XPos><YPos>16</YPos><SelStart>806</SelStart><SelEnd>806</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\source\Components\radios\cc2530\clock.c</Filename><XPos>0</XPos><YPos>28</YPos><SelStart>1095</SelStart><SelEnd>1095</SelEnd></Tab><ActiveTab>8</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01e5b788><key>iaridepm.enu1</key></Toolbar-01e5b788></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>366</Bottom><Right>273</Right><x>-2</x><y>-2</y><xscreen>226</xscreen><yscreen>177</yscreen><sizeHorzCX>194158</sizeHorzCX><sizeHorzCY>302564</sizeHorzCY><sizeVertCX>236254</sizeVertCX><sizeVertCY>629060</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>175</Bottom><Right>1166</Right><x>-2</x><y>-2</y><xscreen>1168</xscreen><yscreen>177</yscreen><sizeHorzCX>1003436</sizeHorzCX><sizeHorzCY>302564</sizeHorzCY><sizeVertCX>194158</sizeVertCX><sizeVertCY>302564</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
